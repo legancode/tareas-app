@@ -6,7 +6,7 @@
 npm install
 ```
 
-## Para iniciar el dev server
+## Para ejecutar el dev server
 
 ```
 npm start
