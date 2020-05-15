@@ -1,4 +1,4 @@
-# Webpack simple Boilerplate
+# Tareas App
 
 ## Para iniciar
 

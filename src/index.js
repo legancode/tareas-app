@@ -1,6 +1,7 @@
-import { greet } from "./js/components";
 import "./styles.css";
+import { TodoList } from "./classes";
+import { drawTodo } from "./js/components";
 
-const name = "Angel";
+export const todoList = new TodoList();
 
-greet(name);
+todoList.todos.forEach(drawTodo);
